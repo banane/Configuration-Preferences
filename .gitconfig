@@ -1,6 +1,6 @@
 [core]
   editor = subl -n -w
-  excludesfile = /Users/studdmnky/.gitignore_global
+  excludesfile = ~/.gitignore_global
 [user]
   name = Tommy Vo
   email = tommy.l.vo@gmail.com
